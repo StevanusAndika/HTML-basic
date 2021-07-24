@@ -1,0 +1,41 @@
+Perangkat lunak yg diperlukan
+
+a. web browser
+ untuk membuka  halaman web ,membutuhkan sebuah aplikasi  yg disebut dgn browser.
+ contoh:chrome,mozilla,Safari,Opera,dan lain lain.
+ 
+ 
+ b.Teks editor.
+ untuk menuliskan kode HTML,CSS,JS,PHP,dan lain-lain.
+ contoh:sublime text,vscode,notepad++,dll.
+ 
+ 
+ c.Aplikasi simulasi server dan databases
+ untuk menguji coba databases dan script yg telah dibuat sebelumnya.
+ contoh:Xampp,Wampp,Mampp,Laragon,dll.
+ 
+ 
+ d.FTP(File Transfer Protocol)
+ 
+ berfungsi untuk  mengunggah dan mendownload gambar antara komputer pengguna dan komputer yg akan menjadi tempat halaman web/web server.
+ contoh:filezilla,CuteFTP,AceFTP,dll.
+ 
+ 
+ e.Web page  authoring
+   kelompok perangkat lunak spt desktop  publishing ,tetapi format yg dihasilkan adalah halaman web,software menerapkan prinsip What you see is What you get.
+   jadi aplikasi ini akan memperhatikan  tampilan spt apa yg dihasilkan.
+   contoh:Adobe dreamweaver,Microsoft expression web,Nvu,dan sebagainya.
+   
+   
+f.Framework
+
+merupakan perangkat lunak yg membantu pengembangan situs web  secara mudah dsn cepat dgn menggunakan kerangka kerja.
+framework berisi berbagai fungsi,plugin dan konsep sehingga dapat membentuk suatu sistem tertentu.
+dengan menggunakan  framework,aplikasi akan tersusun dan memiliki struktur yg rapi.Programmer harus menggunakan variabel dan fungsi fungsi yg ada di framework tersebut.
+
+contoh:
+CSS:Boostrap,semantic ui,bulma,foundation,talwind,materialize,dll.
+
+javascript:vuejs,angular,react,emberjs,nodejs,dll.
+
+php:codeigniter,laravel,zend,symfony,dll.

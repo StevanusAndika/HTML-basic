@@ -1,0 +1,53 @@
+pengembangan aplikasi web tidaklah sama dengan rekayasa perangkat lunak lainnya,meskipun keduanya sama sama melibatkan pemrograman dan pengembangan perangkat lunak.
+alternatif model pengembangan aplikasi berbasis web:
+
+A.Formulation(formulasi).
+
+formulasi adalah kegiatan yg digunakan untuk merumuskan  tujuan  dan ukuran dari aplikasi berbasis web,serta menentukan  batasan sistem.
+Tujuan yg ingin dicapai dibedakan  menjadi dus kategori,yaitu tujuan yg bersifat informatif dan tujuan yg bersifat fungsional.
+
+a.tujuan yg bersifat informatif:yaitu website yg menyediakan suatu informasi tertentu kepads pengguna berupa teks,grsfik,audio dsn video.
+
+
+
+b.Tujuan yg bersifat fungsional:
+yaitu kemampuan website untuk  melakukan suatu fungsi yg dibutuhkan pengguna.
+contoh:dengan menggunakan aplikasi tersebut,siswa dapat melakukan suatu perhitungan dengan cepat,di dalam apliakdi itu juga.
+
+B.Perencanaan.
+perencanaan merupakan kegiatan  untuk menghitung  estimasi biaya waktu pengembangan,evaluasi risiko pengembangan proyek,dan mendefinisikan jadwal pengembangan untuk versi selanjutnya(jiks perlu).
+
+
+C.Analisis.
+analisis adalah kegiatan untuk menentukan  persyaratan-persyaratan  teknik dan mengidentifikasi informasi  yg akan  ditampilkan pada aplikasi berbasis web.Analisis yg digunakan pada rekayasa perangkat web adalah dari 4 sisi adalah sebagai berikut:
+
+a.Analisis isi informasi:mengidentifikasi isi yg akan ditampilkan pada aplikasi berbasis web.isi informasi berupa:teks,grafik,audio,maupun video.
+
+b.Analisis interaksi:analisis yg menunjukkan hubungan aplikasi web dengan pengguna.
+
+c.Analisis fungsional:analisis tentang proses bagaimana aplikasi berbasis web tersebut  akan menampilkan informasi kepada pengguna.
+
+d.Analisis konfigurasi:analisis tentang konfigurasi yg digunakan pada aplikasi berbasis web,internet,infranet,atau ekstranet.selain itu,analisis konfigurasi juga meliputi analisis relasi,database dgn web jika diperlukan.
+
+
+D.Engineering(Rekyasa).
+
+Rekayasa adalah suatu kegiatan pengembangan untuk mewujudkan desain menjadi suatu website.
+
+
+Tahap tahapnya terdiri dari:
+
+a.Authoring:kegiatan untuk proses mempersiapkan konten yg akan diunggah di web,atau lebih khususnya menandai konten dengan tsg HTML yg menggambarkan isi dan fungsinya.
+ 
+ b.styling
+ merupakan  kegiatan untuk membuat tampilan  halaman dalam browser  yg dikendalikan oleh aturan style dan ditulis dalam CSS(Cascading Style Sheets).
+ 
+ c.Scripting(pemrograman)
+ membuat aplikasi dgn  bahasa pemrograman web terkait  diantara PHL,ruby,Python,atau ASP.Net  yg berjalan  pada server dsn mengolah informasi sebelum dikirim ke browser pengguna.
+ 
+ 
+
+
+
+
+

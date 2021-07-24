@@ -1,0 +1,25 @@
+jenis aplikasi berbasis website
+
+berdasarkan tujuan pembuatannya,website dibedakan menjadi beberapa  jenis,yaitu:
+
+
+A.web bisnis:yaitu aplikasi web yg didalamnya  terdapat proses bisnis  seperti:jual-beli,sewa menyewa,penggunaan jasa lelang,dan sebagainya.
+
+
+B.web profil:aplikasi web yg mendeskripsikan tentang profil suatu perusahaan,lembaga,ataupun personal.
+
+c.web berita dan informasi:yaitu aplikasi web  yg menyediakan  konten informasi berbayar maupun gratis.
+
+
+d.web services:yaitu aplikasi web  yg menyediakan layanan pengolahan data dan sebagainya.
+perbedaan umum  aplikasi web services dgn aplikasi web lainnya pada umumnya adalah aplikasi web services tidak memiliki antarmuka,namun dapat diakses melalui internet.
+
+
+e.web social networking:yaitu aplikadi web yg memberikan fasilitas pertemanan tempat berkumpul dan dapat juga menjadi tempat/wadah suatu kelompok.
+
+
+f.web banking:yaitu aplikasi web yg didalamnya terdapat proses transaksi keuangan pada perbankan secara umum,seperti:transfer,pembayaran,pembelian dan sebagainya.
+
+
+g.web Search Engine Optimilization(SEO):
+yaitu aplikasi web yg didalamnya terdapat proses pencarian pada internet.
